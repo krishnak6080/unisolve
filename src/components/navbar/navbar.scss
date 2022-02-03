@@ -1,0 +1,25 @@
+.navbar{
+    height: 70px;
+    display: flex;
+    align-items: center;
+    background-color: whitesmoke;
+}
+.navbar .nav-heading{
+    padding-right: 90px;
+    margin: 20px;
+}
+.nav-search{
+    font-size: 30px;
+}
+.fa-bell{
+    padding-left: 400px;
+}
+.nav-name{
+    padding-left: 50px;
+}
+.fa-user-circle{
+    padding: 0 10px;
+}
+.fa-caret-down{
+    padding: 0 10px;
+}
